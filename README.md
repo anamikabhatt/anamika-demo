@@ -1,4 +1,4 @@
 # anamika-demo
 this is my first git repository.
 <br>
-author-anamika
+author-anamika(practicing git)
